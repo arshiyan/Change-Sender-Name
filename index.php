@@ -65,7 +65,7 @@ function mailsender_text() {
 function mailsender_menu() {
 	add_menu_page(__('Mail Sender Options', 'mailsender'), __('Mail Sender', 'mailsender'), 'manage_options', 'mailsender', 'mailsender_output', 'dashicons-email');
 
-add_submenu_page( 'mailsender', __('Test Mail', 'mailsender'), __('Test Mail', 'mailsender'), 'manage_options', 'mailsender', 'wp_test_email' );
+add_submenu_page( 'mailsender', __('Test Mail', 'mailsender'), __('Test Mail', 'mailsender'), 'manage_options', 'mailsender_test', 'mailsender_test' );
 
 }
 add_action('admin_menu', 'mailsender_menu');
@@ -84,7 +84,7 @@ function mailsender_output(){
 
 
 //test mail template and function
-function wp_test_email() 
+function mailsender_test() 
 {	
 ?>
 <div class="wrap">
