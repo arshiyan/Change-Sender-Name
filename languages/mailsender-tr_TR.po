@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Change Sender Name\n"
+"POT-Creation-Date: 2019-09-17 13:40+0430\n"
+"PO-Revision-Date: 2019-09-17 13:43+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: index.php:31 index.php:66
+msgid "Mail Sender Options"
+msgstr "Posta Gönderen Seçenekleri"
+
+#: index.php:33
+msgid "Mail Sender Name"
+msgstr "Posta Gönderenin Adı"
+
+#: index.php:37
+msgid "Mail Sender Email"
+msgstr "Posta Gönderen E-postası"
+
+#: index.php:59
+msgid ""
+"<p> You may change your WordPress Default mail sender name and email </p>"
+msgstr ""
+"<p> WordPress Varsayılan posta gönderen adınızı ve e-postanızı "
+"değiştirebilirsiniz </p>"
+
+#: index.php:66
+msgid "Mail Sender"
+msgstr "Posta ayarları"
+
+#: index.php:68 index.php:91
+msgid "Test Mail"
+msgstr "Posta Testi"
+
+#: index.php:110
+msgid "Email has been sent!"
+msgstr "Mail gönderildi!"
+
+#: index.php:118
+msgid "Email not sent!"
+msgstr "E-posta gönderilmedi!"
+
+#: index.php:128
+msgid "To"
+msgstr "için"
+
+#: index.php:131
+msgid "Enter \"To address\" here."
+msgstr "Buraya \"Adres vermek\" yazın."
+
+#: index.php:135
+msgid "Subject"
+msgstr "Konu, özne"
+
+#: index.php:138
+msgid "Enter mail subject here"
+msgstr "Posta konusunu buraya girin"
+
+#. Plugin Name of the plugin/theme
+msgid "Change Sender Name"
+msgstr "Gönderenin Adını Değiştir"
+
+#. Description of the plugin/theme
+msgid "Easy way to change mail sender information"
+msgstr "Posta gönderen bilgilerini değiştirmenin kolay yolu"
+
+#. Author of the plugin/theme
+msgid "Mohammad Javad Arshiyan"
+msgstr "Mohammad Javad Arshiyan"
+
+#. Author URI of the plugin/theme
+msgid "http://arshiyan.ir"
+msgstr "http://arshiyan.ir"

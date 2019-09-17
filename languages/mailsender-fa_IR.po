@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Change Sender Name\n"
-"POT-Creation-Date: 2019-09-17 12:26+0430\n"
-"PO-Revision-Date: 2019-09-17 12:28+0430\n"
+"POT-Creation-Date: 2019-09-17 13:37+0430\n"
+"PO-Revision-Date: 2019-09-17 13:40+0430\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fa\n"
@@ -20,21 +20,54 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 
-#: index.php:27 index.php:62
+#: index.php:31 index.php:66
 msgid "Mail Sender Options"
 msgstr "تنظیمات ارسال کننده ایمیل"
 
-#: index.php:29
+#: index.php:33
 msgid "Mail Sender Name"
 msgstr "نام ارسال کننده"
 
-#: index.php:33
+#: index.php:37
 msgid "Mail Sender Email"
 msgstr "ایمیل ارسال کننده"
 
-#: index.php:62
+#: index.php:59
+msgid ""
+"<p> You may change your WordPress Default mail sender name and email </p>"
+msgstr "‏<p>   لطفا یک نام و یک ایمیل برای ارسال ایمیل ها انتخاب کنید</p>"
+
+#: index.php:66
 msgid "Mail Sender"
 msgstr "تنظیمات ایمیل"
+
+#: index.php:68 index.php:91
+msgid "Test Mail"
+msgstr "ایمیل تست"
+
+#: index.php:110
+msgid "Email has been sent!"
+msgstr "ایمیل با موفقیت ارسال شد!"
+
+#: index.php:118
+msgid "Email not sent!"
+msgstr "ایمیل ارسال نشد!"
+
+#: index.php:128
+msgid "To"
+msgstr "به"
+
+#: index.php:131
+msgid "Enter \"To address\" here."
+msgstr "آدرس ایمیل مقصد را اینجا وارد کنید"
+
+#: index.php:135
+msgid "Subject"
+msgstr "عنوان"
+
+#: index.php:138
+msgid "Enter mail subject here"
+msgstr "عنوان ایمیل را اینجا وارد کنید"
 
 #. Plugin Name of the plugin/theme
 msgid "Change Sender Name"
