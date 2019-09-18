@@ -16,6 +16,7 @@ Change default wordpress email
 Easy way to change default email address and email name of wordpress
 
 == Installation ==
+
 Its easy:
 
 1.Upload plugin-name.php to the /wp-content/plugins/ directory
