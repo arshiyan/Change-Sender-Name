@@ -16,8 +16,17 @@ Its easy:
 
 ### Screenshots
 
-1.screenshot-1 main admin view
-2.screenshot-2 change email and name
-3.screenshot-3 test email
+![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+
+>  main admin view.
+
+![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+
+>  main admin view.
+
+![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+
+>  main admin view.
+
 
 
