@@ -1,4 +1,4 @@
-=== Change Mail Sender ===
+=== Plugin Name ===
 Contributors: arshiyan
 Tags:change email,change name,default email ,change Mail Sender name, change Mail Sender email, wordpress default mail sender change.
 Requires at least: 3.0.1
