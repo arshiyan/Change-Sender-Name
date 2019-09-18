@@ -1,21 +1,12 @@
-=== Plugin Name ===
-
-Contributors: Change Sender Name
-Tags: email, changeemail,changename,defaultemail
-Requires at least: 4.6
-Tested up to: 4.7
-Stable tag: 4.3
-Requires PHP: 5.2.4
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+## Change Sender name
 
 Change default wordpress email 
 
-== Description ==
+### Description
 
 Easy way to change default email address and email name of wordpress
 
-== Installation ==
+### How to install this plugin? 
 
 Its easy:
 
@@ -23,8 +14,10 @@ Its easy:
 2.Activate the plugin through the ‘Plugins’ menu in WordPress
 
 
-== Screenshots ==
+### Screenshots
 
-screenshot-1 main admin view
-screenshot-2 change email and name
-screenshot-3 test email
+1-screenshot-1 main admin view
+2-screenshot-2 change email and name
+3-screenshot-3 test email
+
+
