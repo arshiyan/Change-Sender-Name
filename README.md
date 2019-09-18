@@ -16,17 +16,14 @@ Its easy:
 
 ### Screenshots
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://github.com/arshiyan/Change-Sender-Name/blob/master/screenshots/screenshot-1.png)
 
 >  main admin view.
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://github.com/arshiyan/Change-Sender-Name/blob/master/screenshots/screenshot-2.png)
 
 >  main admin view.
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://github.com/arshiyan/Change-Sender-Name/blob/master/screenshots/screenshot-3.png)
 
 >  main admin view.
-
-
-
