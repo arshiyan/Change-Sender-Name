@@ -16,8 +16,8 @@ Its easy:
 
 ### Screenshots
 
-1-screenshot-1 main admin view
-2-screenshot-2 change email and name
-3-screenshot-3 test email
+1.screenshot-1 main admin view
+2.screenshot-2 change email and name
+3.screenshot-3 test email
 
 
